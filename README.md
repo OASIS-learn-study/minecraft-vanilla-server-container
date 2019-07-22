@@ -19,3 +19,7 @@ How to run this container:
 
 * Persistent World
 * Auto Start on Boot
+
+## Alternatives
+
+* [itzg/docker-minecraft-server](https://github.com/itzg/docker-minecraft-server)
